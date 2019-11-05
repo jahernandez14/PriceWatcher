@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 
 /**
  * Class created to give a visual representation of item details.
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  *
  */
 
