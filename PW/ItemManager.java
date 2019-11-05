@@ -4,7 +4,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *A class used to store all items and make them accessible by the user
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  */
 public class ItemManager {
 	private DefaultListModel<Item> itemList;
