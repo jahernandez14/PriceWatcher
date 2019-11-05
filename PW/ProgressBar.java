@@ -9,7 +9,7 @@ import java.beans.*;
 /**
  * class that creates a progress bar
  * 
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  *
  */
 public class ProgressBar extends JPanel implements ActionListener, PropertyChangeListener {
