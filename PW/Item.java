@@ -8,7 +8,7 @@ import org.json.simple.JSONObject;
 
 /**
  *Class used to create an item
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  */
 public class Item extends PriceFinder {
 	private String name = "";
