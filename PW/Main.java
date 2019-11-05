@@ -42,7 +42,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  * 
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  * @version 4.4 (5/2/2019)
  * @since 3.0
  *
