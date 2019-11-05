@@ -6,7 +6,7 @@ import javax.swing.ListCellRenderer;
 
 /**
  * Class that extends ItemView and implements ListCellRendered to render objects to be visible in JList
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  *
  */
 @SuppressWarnings("serial")
