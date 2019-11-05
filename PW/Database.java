@@ -12,7 +12,7 @@ import org.json.simple.parser.ParseException;
 /**
  * Class to store items persistently and write to a txt file
  * 
- * @author Julio Hernandez & Jonathan Argumedo & Jose Lujan
+ * @author Julio Hernandez & Jonathan Argumedo
  *
  */
 public class Database {
